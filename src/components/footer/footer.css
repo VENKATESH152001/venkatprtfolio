@@ -1,0 +1,24 @@
+.footer_box{
+    min-height: 50vh;
+}
+.footer_email_box{
+    border: #766DFF solid 1px;
+}
+.email_btn{
+    background-image: linear-gradient(to left,#766dff 0%, #88f3ff);
+}
+.footer_pg_hds{
+    font-weight: bold;
+    color: white;
+    font-size: large;
+}
+.footer_pg_p{
+    color: rgb(95, 95, 95);
+}
+.footer_social_icn{
+    color: white;
+    font-size: large;
+}
+.footer_social_icn:hover{
+    color:#766DFF ;
+}

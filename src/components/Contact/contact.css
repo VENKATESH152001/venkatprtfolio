@@ -1,0 +1,51 @@
+.contact_bg{
+    min-height: 50vh;
+    /* background-image: linear-gradient(to right,#766dff 0%, #88f3ff); */
+    background-color: rgb(248, 248, 248);
+    box-shadow: 10px 5px 30px 30px rgb(228, 228, 228) ;
+}
+.contact_txt{
+font-size: 50px;
+font-weight: bold;
+text-shadow: 5px 5px 5px rgb(180, 180, 180);
+}
+
+.map_location_container{
+    min-height: 65vh;
+}
+.contact_body{
+    min-height: 48vh;
+}
+.contct_icn_row{
+    display: flex;
+    height: 65px;
+    align-items: center;
+}
+.contct_icon_info{
+    margin-left: 30px;
+}
+.contct_icn_clr{
+    color: #7671FF;
+}
+.small{
+    color: #a09f9f;
+}
+.snd_msg_btn{
+    border: none;
+    color: white;
+    font-weight:bold;
+    border-radius: 4px;
+    padding: 13px;
+    padding-left:45px ;
+    padding-right: 45px;
+  background-color: #766DFF;
+}
+.snd_msg_btn:hover{
+    border: #766DFF solid 1px;
+    background-color: white;
+    color: #766DFF ;
+}
+.contact_maps{
+    height: 60vh;
+    box-shadow: 10px 8px 30px 30px rgb(228, 228, 228) ;
+}

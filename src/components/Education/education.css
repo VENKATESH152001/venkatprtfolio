@@ -1,0 +1,59 @@
+.education_bg{
+    min-height: 45vh;
+    background-color: rgb(248, 248, 248);
+    box-shadow: 10px 20px 20px rgb(228, 228, 228) ;
+}
+.education_txt{
+    font-size: 50px;
+font-weight: bold;
+text-shadow: 5px 5px 5px rgb(180, 180, 180);
+}
+.education_content{
+  min-height: 60vh;
+}
+.overlay {
+    border:#766dff solid 1px;
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    right: 0;
+    background-color: black;
+    /* background-image: linear-gradient(to left,#766dff 0%, #88f3ff); */
+    overflow: hidden;
+    width: 100%;
+    height:0;
+    border-radius: 10px;
+    transition: .5s ease;
+  }
+
+  .containert:hover .overlay {
+    bottom: 0;
+    height: 100%;
+  }
+.bgqu{
+    height: 100%;
+    background-size:cover ;
+}
+.fontnormal{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #000000;
+}
+
+.bgbtn{
+  background-color: #3A5F72 ;
+}
+/* .marl{
+  margin-left:10%;
+} */
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }

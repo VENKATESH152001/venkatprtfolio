@@ -1,0 +1,74 @@
+.background_home{
+         min-height: 100vh;
+         background-image: linear-gradient(to right,#766dff 0%, #88f3ff);
+         
+}
+
+.my_content{
+    min-height: 100vh;
+}
+.home_abt_bg{
+    min-height: 100vh;
+    background-image: linear-gradient(to right,#766dff 0%, #88f3ff);
+    padding-top: 8%;
+}
+.about_details_box{
+    min-height: 60vh;
+    border-radius: 20px;
+}
+.venkatesh_name{
+    text-shadow: 3px 3px 3px #a1a1a1;
+    font-weight: bolder;
+    font-size: 330%;
+}
+/* .venkat_img{
+    border-radius: 80px;
+    box-shadow: 10px 10px 10px #474545;
+   
+} */
+.abt_icon_text{
+  text-decoration: none;
+  color: rgb(86, 90, 95);
+  
+}
+.unorder_list_icon{
+    list-style: none;
+    justify-content: space-between;
+    line-height: 40px;
+    letter-spacing: 1px;
+   color: #6bd5e0;
+   font-size:large;
+}
+.contact_icons_div{
+    margin-left: 3%;
+    
+
+}
+.contact_icons:hover{
+    background-image: linear-gradient(to right,#766dff 0%, #88f3ff);
+}
+.contact_icons{
+    border-radius: 7px;
+    padding-top:2% ;
+    padding-bottom: 2%;
+    font-size: 160%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: white;
+    background-color: rgb(207, 206, 206);
+}
+.resume_btn{
+    font-size: 100%;
+    text-decoration: none;
+    border-radius: 7px;
+    letter-spacing: 1px;
+    color: white;
+    background-image: linear-gradient(to right,#766dff 0%, #88f3ff);
+}
+.resume_btn:hover{
+    background-image: linear-gradient(to left,#766dff 0%, #88f3ff);
+    color: white;
+  
+}

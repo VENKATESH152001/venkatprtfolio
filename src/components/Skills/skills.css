@@ -1,0 +1,70 @@
+
+.skills_bg{
+        min-height: 45vh;
+        /* background-image: linear-gradient(to right,#766dff 0%, #88f3ff); */
+        background-color: rgb(248, 248, 248);
+        box-shadow: 10px 20px 20px rgb(228, 228, 228) ;
+}
+.skills_txt{
+    font-size: 50px;
+    font-weight: bold;
+   text-shadow: 5px 5px 5px rgb(180, 180, 180);
+}
+.skills_container{
+    min-height: 70vh;
+}
+.mern_box{
+    border: rgb(94, 94, 94) solid 4px;
+    border-radius: 20px;
+    height: fit-content;
+}
+.mern_text{
+    color: rgb(99, 99, 99);
+}
+.progress_container{
+    border-radius: 20px;
+    min-height: 70vh;
+    background-color: rgb(0, 0, 0);
+}
+.progress_html{
+    width: 88%;
+    background-image: linear-gradient(to left,#766dff 0%, #88f3ff);
+    /* background-color: crimson; */
+}
+.progress_css{
+    width: 79%;
+    background-image: linear-gradient(to left,#766dff 0%, #88f3ff);
+}
+.progress_btstrp{
+    width: 66%;
+    background-image: linear-gradient(to left,#766dff 0%, #88f3ff);
+}
+.progress_js{
+    width: 75%;
+    background-image: linear-gradient(to left,#766dff 0%, #88f3ff);
+}
+.progress_rjs{
+    width: 82%;
+    background-image: linear-gradient(to left,#766dff 0%, #88f3ff);
+}
+.progress_sql{
+    width: 68%;
+    background-image: linear-gradient(to left,#766dff 0%, #88f3ff);
+}
+.progress_njs{
+    width: 83%;
+    background-image: linear-gradient(to left,#766dff 0%, #88f3ff);
+}
+.progress_java{
+    width: 60%;
+    background-image: linear-gradient(to left,#766dff 0%, #88f3ff);
+}
+.progress_br_h{
+    height: 10px;
+}
+.certific_bg{
+    min-height: 80vh;
+    border-radius: 20px;
+    background-image: linear-gradient(to right,#766dff 0%, #88f3ff);
+
+}

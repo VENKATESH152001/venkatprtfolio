@@ -1,0 +1,9 @@
+.nav_bg{
+    background-image: linear-gradient(to right,#766dff 0%, #88f3ff);
+    font-weight: bold;
+}
+.navbar{
+    position: sticky;
+    top: 0 ;
+    z-index: 20;
+}
